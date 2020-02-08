@@ -7,3 +7,22 @@
 
 ![](Screenshot2.png)
 
+<h1 align="centre">Installation Process </h1>
+
+$apt update && apt upgrade 
+
+$pkg install python
+
+$python2 vim figlet curl 
+
+$pkg install php 
+
+$pip2 install lolcat 
+
+$pkg install git 
+
+$git clone https://github.com/Stephin-Franklin/T-Installer 
+
+MENJALANKANNYA
+
+$cd T-Installer $chmod +x T-Installer.sh $sh T-Installer.sh
