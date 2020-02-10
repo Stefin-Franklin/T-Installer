@@ -23,6 +23,6 @@ $pkg install git
 
 $git clone https://github.com/Stephin-Franklin/T-Installer 
 
-MENJALANKANNYA
+
 
 $cd T-Installer $chmod +x T-Installer.sh $sh T-Installer.sh
